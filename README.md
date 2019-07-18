@@ -24,3 +24,7 @@ Anaconda 4.5<br>
 
 ## Testing
 ![titanic](/Titanic/5.Testing.gif)<br>
+
+分析結果及び予測<br>
+結果をサイトに上げてて測定<br>
+補完すべき点<br>
